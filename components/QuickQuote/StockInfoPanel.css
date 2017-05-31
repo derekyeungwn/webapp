@@ -1,0 +1,12 @@
+#upPrice {
+  color: green;
+}
+
+#downPrice {
+  color: red;
+}
+
+#stockInfoHeader {
+  height: 100px;
+  margin-left: 5px;
+}
