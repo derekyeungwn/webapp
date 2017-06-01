@@ -2,7 +2,7 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
 
-//test
+//test2
 
 //redux
 import { Provider } from 'react-redux';
