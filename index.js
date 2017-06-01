@@ -2,8 +2,6 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
 
-//atestx2
-
 //redux
 import { Provider } from 'react-redux';
 import { createStore, applyMiddleware } from 'redux';
